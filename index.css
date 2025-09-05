@@ -1,0 +1,26 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 48px;
+    margin:0;
+    }
+    h2{
+      color: orange;
+        font-size: 30px
+    }
+    img{
+      display: block;
+      margin: auto;
+      height: 500px;
+    }
+    ul{ display: block;
+      margin: auto;
+      width: 300px;
+    }
+    li{
+      color: #f10;
+        margin: auto;
+      text-align: center;
+      font-size: 15px;
+      
+    }
